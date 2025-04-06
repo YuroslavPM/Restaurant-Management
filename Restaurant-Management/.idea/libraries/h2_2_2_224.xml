@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="h2-2.2.224">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Lib/h2-2.2.224.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads/JDatePicker-master/JDatePicker-master/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/JDatePicker-master/JDatePicker-master/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
