@@ -1,12 +1,9 @@
 # Restaurant-Management
-Този проект е разработен като част от университетския курс "Практикум по ООП и Бази Данни". Основната му идея е създаването на компютърно приложение за резервации в ресторант.
+🧾 Project Description
+This is a university project developed for the course "OOP and Databases Practicum". The application simulates a restaurant reservation system, where users can:
+- Create and manage restaurants.
+- Set the number of available seats.
+- Book reservations for specific dates and number of guests.
+The project uses the H2 database, which helped me better understand embedded databases and how to integrate them in Java-based applications. It also applies object-oriented programming principles and is a solid foundation for CRUD-based apps.
 
-Системата позволява:
-- Създаване и управление на ресторанти и броя им места
-- Възможност за потребителите да правят резервации – с избор на брой хора, дата и други детайли
-- Запис и извличане на информация чрез база данни
-
-Проектът използва H2 база данни, което беше интересен и малко по-нестандартен избор. Работата с нея ми помогна да разбера по-добре как функционират in-memory и embedded бази от данни, както и как да ги интегрирам в Java приложения.
-
-Целта на проекта беше да се упражнят основни принципи на обектно-ориентираното програмиране, работа с бази от данни, както и да се изградят по-цялостни приложения с реална логика и структура.
-
+The goal was to build something both functional and practical, while learning more about back-end logic, database integration, and basic UI workflows.
